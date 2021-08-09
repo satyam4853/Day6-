@@ -1,0 +1,13 @@
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\reversenumber\reversenumber\bin\Debug\netcoreapp3.1\reversenumber.exe
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\reversenumber\reversenumber\bin\Debug\netcoreapp3.1\reversenumber.deps.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\reversenumber\reversenumber\bin\Debug\netcoreapp3.1\reversenumber.runtimeconfig.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\reversenumber\reversenumber\bin\Debug\netcoreapp3.1\reversenumber.runtimeconfig.dev.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\reversenumber\reversenumber\bin\Debug\netcoreapp3.1\reversenumber.dll
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\reversenumber\reversenumber\bin\Debug\netcoreapp3.1\reversenumber.pdb
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\reversenumber\reversenumber\obj\Debug\netcoreapp3.1\reversenumber.csproj.AssemblyReference.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\reversenumber\reversenumber\obj\Debug\netcoreapp3.1\reversenumber.AssemblyInfoInputs.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\reversenumber\reversenumber\obj\Debug\netcoreapp3.1\reversenumber.AssemblyInfo.cs
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\reversenumber\reversenumber\obj\Debug\netcoreapp3.1\reversenumber.csproj.CoreCompileInputs.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\reversenumber\reversenumber\obj\Debug\netcoreapp3.1\reversenumber.dll
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\reversenumber\reversenumber\obj\Debug\netcoreapp3.1\reversenumber.pdb
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\reversenumber\reversenumber\obj\Debug\netcoreapp3.1\reversenumber.genruntimeconfig.cache

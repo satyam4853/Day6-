@@ -1,0 +1,13 @@
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\primenumber\primenumber\bin\Debug\netcoreapp3.1\primenumber.exe
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\primenumber\primenumber\bin\Debug\netcoreapp3.1\primenumber.deps.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\primenumber\primenumber\bin\Debug\netcoreapp3.1\primenumber.runtimeconfig.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\primenumber\primenumber\bin\Debug\netcoreapp3.1\primenumber.runtimeconfig.dev.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\primenumber\primenumber\bin\Debug\netcoreapp3.1\primenumber.dll
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\primenumber\primenumber\bin\Debug\netcoreapp3.1\primenumber.pdb
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\primenumber\primenumber\obj\Debug\netcoreapp3.1\primenumber.csproj.AssemblyReference.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\primenumber\primenumber\obj\Debug\netcoreapp3.1\primenumber.AssemblyInfoInputs.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\primenumber\primenumber\obj\Debug\netcoreapp3.1\primenumber.AssemblyInfo.cs
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\primenumber\primenumber\obj\Debug\netcoreapp3.1\primenumber.csproj.CoreCompileInputs.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\primenumber\primenumber\obj\Debug\netcoreapp3.1\primenumber.dll
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\primenumber\primenumber\obj\Debug\netcoreapp3.1\primenumber.pdb
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\primenumber\primenumber\obj\Debug\netcoreapp3.1\primenumber.genruntimeconfig.cache

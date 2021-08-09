@@ -1,0 +1,13 @@
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\Stopwatchproblem\Stopwatchproblem\bin\Debug\netcoreapp3.1\Stopwatchproblem.exe
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\Stopwatchproblem\Stopwatchproblem\bin\Debug\netcoreapp3.1\Stopwatchproblem.deps.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\Stopwatchproblem\Stopwatchproblem\bin\Debug\netcoreapp3.1\Stopwatchproblem.runtimeconfig.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\Stopwatchproblem\Stopwatchproblem\bin\Debug\netcoreapp3.1\Stopwatchproblem.runtimeconfig.dev.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\Stopwatchproblem\Stopwatchproblem\bin\Debug\netcoreapp3.1\Stopwatchproblem.dll
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\Stopwatchproblem\Stopwatchproblem\bin\Debug\netcoreapp3.1\Stopwatchproblem.pdb
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\Stopwatchproblem\Stopwatchproblem\obj\Debug\netcoreapp3.1\Stopwatchproblem.csproj.AssemblyReference.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\Stopwatchproblem\Stopwatchproblem\obj\Debug\netcoreapp3.1\Stopwatchproblem.AssemblyInfoInputs.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\Stopwatchproblem\Stopwatchproblem\obj\Debug\netcoreapp3.1\Stopwatchproblem.AssemblyInfo.cs
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\Stopwatchproblem\Stopwatchproblem\obj\Debug\netcoreapp3.1\Stopwatchproblem.csproj.CoreCompileInputs.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\Stopwatchproblem\Stopwatchproblem\obj\Debug\netcoreapp3.1\Stopwatchproblem.dll
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\Stopwatchproblem\Stopwatchproblem\obj\Debug\netcoreapp3.1\Stopwatchproblem.pdb
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\Stopwatchproblem\Stopwatchproblem\obj\Debug\netcoreapp3.1\Stopwatchproblem.genruntimeconfig.cache

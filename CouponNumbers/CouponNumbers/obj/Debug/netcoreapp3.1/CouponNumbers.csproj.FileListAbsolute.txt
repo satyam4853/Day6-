@@ -1,0 +1,13 @@
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\CouponNumbers\CouponNumbers\bin\Debug\netcoreapp3.1\CouponNumbers.exe
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\CouponNumbers\CouponNumbers\bin\Debug\netcoreapp3.1\CouponNumbers.deps.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\CouponNumbers\CouponNumbers\bin\Debug\netcoreapp3.1\CouponNumbers.runtimeconfig.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\CouponNumbers\CouponNumbers\bin\Debug\netcoreapp3.1\CouponNumbers.runtimeconfig.dev.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\CouponNumbers\CouponNumbers\bin\Debug\netcoreapp3.1\CouponNumbers.dll
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\CouponNumbers\CouponNumbers\bin\Debug\netcoreapp3.1\CouponNumbers.pdb
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\CouponNumbers\CouponNumbers\obj\Debug\netcoreapp3.1\CouponNumbers.csproj.AssemblyReference.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\CouponNumbers\CouponNumbers\obj\Debug\netcoreapp3.1\CouponNumbers.AssemblyInfoInputs.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\CouponNumbers\CouponNumbers\obj\Debug\netcoreapp3.1\CouponNumbers.AssemblyInfo.cs
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\CouponNumbers\CouponNumbers\obj\Debug\netcoreapp3.1\CouponNumbers.csproj.CoreCompileInputs.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\CouponNumbers\CouponNumbers\obj\Debug\netcoreapp3.1\CouponNumbers.dll
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\CouponNumbers\CouponNumbers\obj\Debug\netcoreapp3.1\CouponNumbers.pdb
+C:\Users\SATYAM VAISHNAV\fellowship_program\day6\CouponNumbers\CouponNumbers\obj\Debug\netcoreapp3.1\CouponNumbers.genruntimeconfig.cache
